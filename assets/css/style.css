@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body, html  {
+    height: 100%;
+    margin: 0;
+    font-size: 24px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: black;
+}
+
+/* Navbar */
+
+h1  {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.contact-para   {
+    padding-top: 10px;
+}
+
+.fas    {
+    font-family: "Oswald" , sans-serif;
+    font-size: 20px;
+    padding-right: 33px;
+    padding-bottom: 10px;
+}
+
+.far    {
+    font-family: "Oswald" , sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+
+.contact-info   {
+    text-align: center;
+    padding-left: 100px;
+}
+
+.parallax1  {
+    background-image: url(../img/imagetwo.jpg);
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2  {
+    background-image: url(../img/imagethree.jpg);
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3  {
+    background-image: url(../img/imageone.jpg);
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Quote Cards */
+
+.card   {
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
