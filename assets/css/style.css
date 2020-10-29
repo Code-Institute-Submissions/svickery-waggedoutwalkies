@@ -15,15 +15,18 @@ body, html  {
 h1  {
     padding-top: 20px;
     padding-left: 10px;
+    color: #fff;
 }
 
 .contact-para   {
     padding-top: 10px;
+    color: #fff;
 }
 
 .fas    {
     font-family: "Oswald" , sans-serif;
     font-size: 20px;
+    color: #fff;
     padding-right: 33px;
     padding-bottom: 10px;
 }
@@ -31,6 +34,7 @@ h1  {
 .far    {
     font-family: "Oswald" , sans-serif;
     font-size: 20px;
+    color: #fff;
     padding-left: 20px;
     padding-bottom: 10px;
 }
@@ -40,6 +44,8 @@ h1  {
     text-align: center;
     padding-left: 100px;
 }
+
+/* Parallax */
 
 .parallax1  {
     background-image: url(../img/imagetwo.jpg);
@@ -68,6 +74,10 @@ h1  {
     background-size: cover;
 }
 
+section {
+    margin: 10px 0 10px 0;
+}
+
 /* Quote Cards */
 
 .card   {
@@ -76,3 +86,5 @@ h1  {
     float: none;
     margin-bottom: 10px;
 }
+
+/* Contact Form */
