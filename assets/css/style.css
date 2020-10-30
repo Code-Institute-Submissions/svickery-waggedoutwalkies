@@ -10,32 +10,48 @@ body, html  {
     color: black;
 }
 
+/* Sections */
+
+h2  {
+    text-align: center;
+    font-size: 16px;
+}
+
+section    {
+    margin: 10px 0 10px 0;
+}
+
 /* Navbar */
 
 h1  {
     padding-top: 20px;
     padding-left: 10px;
     color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
 }
 
 .contact-para   {
     padding-top: 10px;
     color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding-left: 
 }
 
 .fas    {
     font-family: "Oswald" , sans-serif;
     font-size: 20px;
     color: #fff;
-    padding-right: 33px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 .far    {
     font-family: "Oswald" , sans-serif;
     font-size: 20px;
     color: #fff;
-    padding-left: 20px;
     padding-bottom: 10px;
 }
 
@@ -43,6 +59,15 @@ h1  {
 .contact-info   {
     text-align: center;
     padding-left: 100px;
+}
+
+.active-nav-item    {
+    color: darkgray;
+    font-family: "Oswald", sans-serif;
+}
+
+.navbar-nav {  
+    color: darkgray;
 }
 
 /* Parallax */
@@ -78,13 +103,85 @@ section {
     margin: 10px 0 10px 0;
 }
 
+/* Service Cards */
+
+.card-text  {
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+}
+
+.card   {
+    font-family: "Oswald", sans-serif;
+}
+
+.service-heading    {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+
 /* Quote Cards */
+
+.review-heading   {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
 
 .card   {
     text-align: center;
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
+    font-family: "Oswald", sans-serif;
 }
 
+
 /* Contact Form */
+
+.contact-heading    {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form    {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"]   {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: black;
+    background-color: #DAAA0B;
+    font-family: "Oswald", sans-serif;
+}
+
+/* Footer */
+
+.footer-para    {
+    font-family: "Oswald", sans-serif;
+    font-size: 12px;
+}
+
+.fas.fa-copyright   {
+    color: black;
+    font-size: 12px;
+}
+
+.fab    {
+    text-align: center;
+    padding: 5px;
+    font-size: 50px;
+}
+
+.design {
+    font-family: "Oswald", sans-serif;
+    font-size: 12px;
+}
