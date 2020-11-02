@@ -10,14 +10,14 @@ body, html  {
     color: black;
 }
 
-/****************************** Sections **********************************/
+/****************************** Headings **********************************/
 
-h2  {
+.service-heading  {
     text-align: center;
     font-size: 16px;
 }
 
-h1  {
+.site-title  {
     padding-top: 20px;
     padding-left: 10px;
     color: #fff;
