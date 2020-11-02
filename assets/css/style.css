@@ -72,36 +72,28 @@ h1  {
 
 /************************************* Parallax ***************************************/
 
-.parallax1  {
-    background-image: url(../img/imagetwo.jpg);
-    min-height: 100%;
+.parallax   {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.parallax1  {
+    background-image: url(../img/imagetwo.jpg);
+    height: 100%;
 }
 
 .parallax2  {
     background-image: url(../img/imagethree.jpg);
-    min-height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    height: 65%;
 }
 
 .parallax3  {
     background-image: url(../img/imageone.jpg);
-    min-height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    height: 65%;
 }
 
-section {
-    margin: 10px 0 10px 0;
-}
 
 /* Service Cards */
 
