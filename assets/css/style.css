@@ -59,13 +59,14 @@ body, html  {
 }
 
 .active-nav-item    {
-    color: darkgray;
+    color: white !important;
     font-family: "Oswald", sans-serif;
 }
 
 .navbar-nav {  
-    color: darkgray;
+    color: darkgray !important;
 }
+
 
 /************************************* Parallax ***************************************/
 
