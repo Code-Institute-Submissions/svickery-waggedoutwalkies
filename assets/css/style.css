@@ -10,7 +10,7 @@ body, html  {
     color: black;
 }
 
-/* Sections */
+/****************************** Sections **********************************/
 
 h2  {
     text-align: center;
@@ -21,7 +21,7 @@ section    {
     margin: 10px 0 10px 0;
 }
 
-/* Navbar */
+/************************************ Navbar ****************************************/
 
 h1  {
     padding-top: 20px;
@@ -70,7 +70,7 @@ h1  {
     color: darkgray;
 }
 
-/* Parallax */
+/************************************* Parallax ***************************************/
 
 .parallax1  {
     background-image: url(../img/imagetwo.jpg);
@@ -140,7 +140,7 @@ section {
 }
 
 
-/* Contact Form */
+/****************************** Contact Form **************************/
 
 .contact-heading    {
     font-family: "Oswald", sans-serif;
@@ -163,7 +163,7 @@ button[type="submit"]   {
     font-family: "Oswald", sans-serif;
 }
 
-/* Footer */
+/********************* Footer ***************************/
 
 .footer-para    {
     font-family: "Oswald", sans-serif;
