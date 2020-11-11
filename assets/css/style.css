@@ -7,7 +7,8 @@ body, html  {
     font-family: "Oswald", sans-serif;
     font-weight: 400;
     line-height: 1.8em;
-    color: black;
+    color: rgb(58, 56, 56);
+    background-color: #fafafa;
 }
 
 /****************************** Headings **********************************/
@@ -99,6 +100,7 @@ nav li a:hover  {
 
 .card   {
     font-family: "Oswald", sans-serif;
+    margin: 0 5px;
 }
 
 .service-heading    {
@@ -171,4 +173,10 @@ button[type="submit"]   {
 .design {
     font-family: "Oswald", sans-serif;
     font-size: 12px;
+}
+
+@media (min-width: 768px){
+.col-md-4 {
+    max-width: 30% !important;
+}
 }
