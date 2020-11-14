@@ -31,7 +31,6 @@ body, html  {
     font-family: "Oswald", sans-serif;
     font-weight: 300;
     text-align: center;
-    padding-left: 
 }
 
 .fas    {
@@ -165,6 +164,11 @@ button[type="submit"]   {
 .form-control   {
     margin: 5px 5px;
 }
+
+/********************* Header ***************************/
+
+
+
 
 /********************* Footer ***************************/
 
