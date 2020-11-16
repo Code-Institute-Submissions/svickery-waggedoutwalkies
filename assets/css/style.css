@@ -22,6 +22,8 @@ body, html  {
     font-weight: 300;
 }
 
+
+
 /************************************ Navbar ****************************************/
 
 
@@ -64,8 +66,10 @@ nav li a:hover  {
     color: white;
 }
 
-.sticky-top {
-    position: sticky;
+
+
+.intro-row  {
+    margin-top: 84px;
 }
 
 
@@ -123,24 +127,20 @@ section {
     max-width: 90%;
 }
 
-.service-heading    {
+.service-heading,
+.review-heading,
+.contact-heading    {
     font-family: "Oswald", sans-serif;
     font-weight: 300;
-    margin-top: 25px;
+    margin-top: 109px;
     margin-bottom: 20px;
-}
+} 
 
 
 
 
 /******************************** Quote Cards ***********************************/
 
-.review-heading   {
-    font-family: "Oswald", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
-}
 
 .card   {
     text-align: center;
@@ -153,12 +153,6 @@ section {
 
 /****************************** Contact Form **************************/
 
-.contact-heading    {
-    font-family: "Oswald", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
-}
 
 .center-form    {
     padding-top: 10px;
@@ -189,6 +183,10 @@ button[type="submit"]   {
     margin-bottom: 0;
 }
 
+.social-icons a   {
+    color: black;
+}
+
 .fas.fa-copyright   { 
     color: black;
     font-size: 12px;
@@ -201,13 +199,8 @@ button[type="submit"]   {
 }
 
 .design {
-    font-family: "Oswald", sans-serif;
     font-size: 12px;
-}
-
-
-.social-icons   {
-    color: black !important;
+    font-family: "Oswald", sans-serif;
 }
 
 
