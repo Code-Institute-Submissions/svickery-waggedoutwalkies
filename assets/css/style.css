@@ -61,8 +61,14 @@ nav li a {
 
 nav li a:hover  {
     text-decoration: none;
-    color: red;
+    color: white;
 }
+
+.sticky-top {
+    position: sticky;
+}
+
+
 
 /**************************** Sections ***********************************/
 
@@ -124,9 +130,7 @@ section {
     margin-bottom: 20px;
 }
 
-.card-body  {
-    
-}
+
 
 
 /******************************** Quote Cards ***********************************/
@@ -174,8 +178,6 @@ button[type="submit"]   {
     margin: 5px 5px;
 }
 
-/********************* Header ***************************/
-
 
 
 
@@ -184,9 +186,10 @@ button[type="submit"]   {
 .footer-para    {
     font-family: "Oswald", sans-serif;
     font-size: 12px;
+    margin-bottom: 0;
 }
 
-.fas.fa-copyright   {
+.fas.fa-copyright   { 
     color: black;
     font-size: 12px;
 }
@@ -194,13 +197,21 @@ button[type="submit"]   {
 .fab    {
     text-align: center;
     padding: 5px;
-    font-size: 50px;
+    
 }
 
 .design {
     font-family: "Oswald", sans-serif;
     font-size: 12px;
 }
+
+
+.social-icons   {
+    color: black !important;
+}
+
+
+
 
 @media (min-width: 768px){
 .col-md-4 {
