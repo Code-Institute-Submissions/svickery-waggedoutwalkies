@@ -116,6 +116,8 @@ section {
 
 /************************ Service Cards *****************************/
 
+
+
 .card-text  {
     font-family: "Oswald", sans-serif;
     font-size: 16px;
@@ -205,4 +207,11 @@ button[type="submit"]   {
 .col-md-4 {
     max-width: 30% !important;
 }
+}
+
+
+@media screen and (max-width: 768px)  {
+    .footer-para .design    {
+        text-align: center;
+    }
 }
