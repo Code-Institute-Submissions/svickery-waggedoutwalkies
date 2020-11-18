@@ -1,17 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-body, html  {
-    height: 100%;
+* {
+    padding: 0;
     margin: 0;
-    font-size: 24px;
+    box-sizing: border-box; 
+}
+
+body, html  {
+    height: 100%; 
+    font-size: 1.5rem;
     font-family: "Oswald", sans-serif;
-    font-weight: 400;
-    line-height: 1.8em;
+    font-weight: 200;
     color: rgb(58, 56, 56);
     background-color: #fafafa;
 }
 
 /****************************** Headings **********************************/
+
+h1,
+h2  {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+}
 
 
 .site-title  {
@@ -22,6 +32,9 @@ body, html  {
     text-align: center;
 }
 
+.intro-row  {
+    padding-top: 100px;
+}
 
 
 /************************************ Navbar ****************************************/
@@ -34,27 +47,19 @@ body, html  {
     text-align: center;
 }
 
-.fas    {
+.fas,
+.far {
     font-family: "Oswald" , sans-serif;
     font-size: 20px;
     color: #fff;
     padding-bottom: 10px;
     text-align: center;
 }
-
-.far    {
-    font-family: "Oswald" , sans-serif;
-    font-size: 20px;
-    color: #fff;
-    padding-bottom: 10px;
-}
-
 
 .contact-info   {
     text-align: center;
     padding: 20px;
 }
-
 
 nav li a {  
     color: darkgray;
@@ -65,18 +70,11 @@ nav li a:hover  {
     color: white;
 }
 
-
-
-.intro-row  {
-    margin-top: 84px;
-}
-
-
-
 /**************************** Sections ***********************************/
 
 section {
     margin-bottom: 40px;
+    padding-top: 100px;
 }
 
 /************************************* Parallax ***************************************/
@@ -116,34 +114,21 @@ section {
 /************************ Service Cards *****************************/
 
 
-
 .card-text  {
     font-family: "Oswald", sans-serif;
     font-size: 16px;
+    text-align: justify;
 }
-
-.service-heading,
-.review-heading,
-.contact-heading    {
-    font-family: "Oswald", sans-serif;
-    font-weight: 300;
-    /* margin-top: 109px; */
-    margin-bottom: 20px;
-} 
-
-
-
 
 /******************************** Quote Cards ***********************************/
 
 
 .card   {
-    text-align: center;
     margin: 0 auto;
     float: none;
-    /* margin-top: 75px; */
     margin-bottom: 10px;
     font-family: "Oswald", sans-serif;
+    text-align: center;
 }
 
 
@@ -151,7 +136,6 @@ section {
 
 
 .center-form    {
-    /* padding-top: 85px; */
     margin: 0 auto;
     max-width: 70%;
 }
@@ -168,7 +152,9 @@ button[type="submit"]   {
     margin: 5px 5px;
 }
 
-
+#contact    {
+    height: 100vh;
+}
 
 
 /********************* Footer ***************************/
