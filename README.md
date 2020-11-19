@@ -24,3 +24,44 @@ The customer goals of the website are as follows:
 
 ## UX
 
+#### Ideal Client for the business:
+
+* Owns a dog
+* Lives in the Warwickshire area
+* Works during the day
+* Goes on business trips regularly 
+* Has disposable income
+
+#### Visitors to the site will be looking for:
+
+* A dog walker for their dog
+* Someone to dog sit while away
+* A reliable service provider
+* Local service provider
+
+#### This website is best to help them because:
+
+* Other dog walking websites are visually unappealing and have poor UX
+* Other dog walking websites have too much information and it can be an overload
+* This Website is:
+   - Easy to navigate
+   - Simple and efficient with information
+   - All leads to contacting the service provider
+   - Professionally designed and looks trusthworthy
+   
+#### User Stories
+
+1. As a new visitor to the site, I want to be able to navigate the site easily
+2. As a new visitor to the site, I want to see what the business offers immediately
+3. As a new visitor to the site, I want to see a clean, professional and trustworthy service being offered
+4. As a potential client, I want to know the services offered in a concise and precise presentation
+5. As a potential client, I want to see previous client's opinions of the service provider
+6. As an interested client, I want to know the pricing and what I get for this price
+7. As an interested client, I want to be able to contact the service provider in the way I feel is best for me
+8. As an interested client, I want to be able access the service providers social media, so I can keep up with relevant news
+
+
+#### Wireframes
+
+[View Wireframes here](https://www.figma.com/file/VcE19zWTDz8YgJAg8wT44P/Wagged-Out?node-id=28%3A18)
+
