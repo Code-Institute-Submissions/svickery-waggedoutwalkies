@@ -101,6 +101,11 @@ In the footer is copyright information and links to the social media sites.
 
 * The project uses HTML and CSS languages. 
 * [Github](https://github.com/) - I used this for all coding (IDE) while building the website.
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - Used for grid layouts and cards on my page. Also allowed me to use Font Awesome icons for my social media links. 
+* [Font Awesome](https://fontawesome.com/) - Used for social link icons in conjuction with bootstrap. 
+* [Google Fonts](https://fonts.google.com/) - Used for entire website fonts.
+* [Stack Overflow](https://stackoverflow.com/) - Used for the JavaScript necessary to get my stick navigation bar to work. 
+* [Web Formatter](https://webformatter.com/) - Used to make my code cleaner and easier to read.
 
 
 ## Resources
