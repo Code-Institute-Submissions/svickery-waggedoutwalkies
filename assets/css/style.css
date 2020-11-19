@@ -135,6 +135,9 @@ section {
     text-align: center;
 }
 
+.card-body  {
+    height: 11rem;
+}
 
 /****************************** Contact Form **************************/
 
