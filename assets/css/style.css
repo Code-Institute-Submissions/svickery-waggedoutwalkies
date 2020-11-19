@@ -197,4 +197,7 @@ button[type="submit"]   {
 .site-title {
     text-align: left;
     }
+.social-icons   {
+    text-align: right;
+}
 }
