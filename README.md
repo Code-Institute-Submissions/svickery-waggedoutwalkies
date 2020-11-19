@@ -65,3 +65,52 @@ The customer goals of the website are as follows:
 
 [View Wireframes here](https://www.figma.com/file/VcE19zWTDz8YgJAg8wT44P/Wagged-Out?node-id=28%3A18)
 
+
+## Features
+
+The entire website is one scrolling parallax effect. Therefore there are no need for separate pages. This means that to use the site more efficiently the navigation bar the top of the page was made sticky. This means that wherever you scroll or click on the page, then the navigation bar moves with it and stays at the top. In the scrolling page, their is a hero image on the front page, and images between each other page, which are at a height of 70%, so there is less scrolling time of the site visitor. There are four sections to the page in total. A home page, services page, reviews page and a contact page. There is also a footer, where the social link icons are and copyright information. 
+
+#### Home
+
+The Home page features one large photography covering the entire page. The photo has a callout wrapper over the top of this with a sentence about the services offered and two forms of contact in phone number and email. The name of the company also appears as a header and there is no logo used for the site. 
+
+#### Services and Pricing
+
+The Services and Prices page had 3 cards from bootstrap as it's layout. In these cards it contains the options available to the client: *Dog Walking*, *Puppy Care* and *Dog Sitting*. In each section there is a short description of the service available and then different pricing options below. The navigation bar stays at the top. There is also a paragraph beneath the title of Services and Prices stating that the services are only available in Warwickshire at this time. This is a simple layout with no pictures, so only the information comes through. 
+
+
+#### Reviews
+
+There is a photograph from the parallax design before the reviews section if using the scrolling effect of the page. With the navigaton bar once again always at the top. Underneath the title there is another card layout design from bootstrap. It gives each review its number, then the quote, the name of the client and what service the client uses from the company. This is a simple layout with no pictures, so only the information comes through. 
+
+#### Contact Us
+
+Once again there is a picture between Reviews section and Contact Us section using the parallax effect. The navigation is again at the top as always. This is just a simple form with a call to action button at the bottom to allow a potential client to send through their query to the service provider. There is a name, email and message section for the form. 
+
+#### Footer
+
+In the footer is copyright information and links to the social media sites. 
+
+#### Possible Future Features
+
+* GDPR compliant pop up screen. 
+* A FAQ's section
+* Blog from the service provider
+
+## Technologies Used
+
+* The project uses HTML and CSS languages. 
+* [Github](https://github.com/) - I used this for all coding (IDE) while building the website.
+
+
+## Resources
+
+## Testing
+
+## Deployment
+
+## Credits
+
+## Acknowledgments
+
+
