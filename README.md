@@ -107,12 +107,15 @@ In the footer is copyright information and links to the social media sites.
 * [Stack Overflow](https://stackoverflow.com/) - Used for the JavaScript necessary to get my stick navigation bar to work. 
 * [Web Formatter](https://webformatter.com/) - Used to make my code cleaner and easier to read.
 
-
-## Resources
-
 ## Testing
 
+
+
 ## Deployment
+
+This site is hosted by GitHub pages and deployed directly from the master branch. The site updates automatically from updates that are new commits from the master branch. For the site to deploy on GitHub pages the landing page must be correctly named 'index.html'.
+
+
 
 ## Credits
 
