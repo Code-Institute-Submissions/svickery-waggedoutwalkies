@@ -17,8 +17,9 @@ body, html  {
 
 /****************************** Headings **********************************/
 
-h1,
-h2  {
+.service-heading,
+.review-heading,
+.contact-heading    {
     font-family: "Oswald", sans-serif;
     font-weight: 300;
 }
@@ -113,10 +114,13 @@ section {
 
 /************************ Service Cards *****************************/
 
+.service-para   {
+    text-align: center;
+}
 
 .card-text  {
     font-family: "Oswald", sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     text-align: justify;
 }
 
@@ -152,11 +156,6 @@ button[type="submit"]   {
 .form-control   {
     margin: 5px 5px;
 }
-
-#contact    {
-    /* height: 100vh; */
-}
-
 
 /********************* Footer ***************************/
 
