@@ -108,6 +108,7 @@ In the footer is copyright information and links to the social media sites.
 * [Google Fonts](https://fonts.google.com/) - Used for entire website fonts.
 * [Stack Overflow](https://stackoverflow.com/) - Used for the JavaScript necessary to get my stick navigation bar to work. 
 * [Web Formatter](https://webformatter.com/) - Used to make my code cleaner and easier to read.
+* [W3Schools](https://www.w3schools.com/)
 
 ## Testing
 
@@ -121,6 +122,22 @@ This site is hosted by GitHub pages and deployed directly from the master branch
 
 ## Credits
 
+#### Content
+
+All text and content on the page was written by myself
+
+#### Media
+
+All images used on this page were taken from [pexels.com](https://www.pexels.com/).
+
+#### Code
+
+Code for the navigation bar, service cards and review cards were taken from [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
+
+My Contact form was a putting together of code from [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) and [W3Schools](https://www.w3schools.com/). However it was written by myself. 
+
+
 ## Acknowledgments
 
-
+Inspiration from this came from my dog! 
+A big thank you has to go to Jim Lynx, the channel lead on slack for the user centric frontend group. He spent way more time helping me on this project than he needed to. Without him, I would have missed my deadline.
