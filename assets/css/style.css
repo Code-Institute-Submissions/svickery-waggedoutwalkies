@@ -91,7 +91,7 @@ section {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: cover;
+    background-attachment: scroll'
 }  
 
 .parallax1 {
@@ -211,11 +211,4 @@ button[type="submit"] {
     .social-icons {
         text-align: right;
     }
-}
-
-@media(max-width: 767px){
-.x-bg-layer-lower-image {
-    background-attachment: fixed;
-    background-size: contain;
-}
 }
