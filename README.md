@@ -111,6 +111,7 @@ In the footer is copyright information and links to the social media sites.
 * [Web Formatter](https://webformatter.com/) - Used to make my code cleaner and easier to read.
 * [W3Schools](https://www.w3schools.com/) - Used to help with contact form and other various coding questions.
 * [JSfiddle](http://jsfiddle.net/QN9cH/1/) - This was to help with parallax scrolling effect on iOS mobile devices. 
+* [Autoprefixer](https://autoprefixer.github.io/) - Used to ensure CSS is correct
 
 ## Testing
 
