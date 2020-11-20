@@ -61,6 +61,7 @@ The customer goals of the website are as follows:
 6. As an interested client, I want to know the pricing and what I get for this price
 7. As an interested client, I want to be able to contact the service provider in the way I feel is best for me
 8. As an interested client, I want to be able access the service providers social media, so I can keep up with relevant news
+9. As a returning client I want to be able to access the contact details easily 
 
 
 #### Wireframes
@@ -112,7 +113,57 @@ In the footer is copyright information and links to the social media sites.
 
 ## Testing
 
+To test the website, the project code was run through both a Markup checker and a CSS checker, below are the links to the sites and the results. 
 
+[Markup Validator](https://validator.w3.org/#validate_by_input) [Results](https://validator.w3.org/nu/#textarea)
+
+As can be seen in the Markup Validator, there were 5 warnings and 4 errors. The warnings are just for the comments and these are necessary for guidance for whoever is reading the HTML. The errors are only there because this is a Bootstrap navigation bar and after speaking with some colleagues, this can be a common error for validators. They do not seem to recognise Bootstrap code correctly.
+
+[CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) [Results](https://jigsaw.w3.org/css-validator/validator)
+
+There are no errors in the CSS Validator.
+
+#### Testing User Stories
+
+ * ##### New Visitor Goals
+   
+    i. *As a new visitor to the site, I want to be able to navigate the site easily*
+    
+     a. As soon as the website is clicked there is a navigation bar at the top of the page
+     b. Scrolling down the page, navigation is still easy as the navigation bar stays at the top of the page
+     c. The site uses a parallax effect and therefore navigation is always smooth. There is no need to keep going back and forth through pages, all information is       on one scrolling page. 
+  
+    ii. *As a new visitor to the site, I want to see what the business offers immediately*
+  
+     a.
+    
+    iii. *As a new visitor to the site, I want to see a clean, professional and trustworthy service being offered*
+   
+     a.
+    
+ * ##### Potential Client Goals
+ 
+    i. *As a potential client, I want to know the services offered in a concise and precise presentation*
+    
+    ii. *As a potential client, I want to see previous client's opinions of the service provider*
+ 
+ * ##### Interested Client Goals
+ 
+    i. *As an interested client, I want to know the pricing and what I get for this price* 
+    
+    ii. *As an interested client, I want to be able to contact the service provider in the way I feel is best for me*
+    
+    iii. *As an interested client, I want to be able access the service providers social media, so I can keep up with relevant news*
+ 
+ * ##### Returning Customer Goals
+ 
+     i. *As a returning client I want to be able to access the contact details easily*
+     
+
+#### Further Testing
+
+
+    
 
 ## Deployment
 
