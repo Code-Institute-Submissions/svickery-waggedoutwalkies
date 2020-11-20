@@ -129,35 +129,56 @@ There are no errors in the CSS Validator.
    
     i. *As a new visitor to the site, I want to be able to navigate the site easily*
     
-     a. As soon as the website is clicked there is a navigation bar at the top of the page
-     b. Scrolling down the page, navigation is still easy as the navigation bar stays at the top of the page
+     a. As soon as the website is clicked there is a navigation bar at the top of the page.
+     b. Scrolling down the page, navigation is still easy as the navigation bar stays at the top of the page.
      c. The site uses a parallax effect and therefore navigation is always smooth. There is no need to keep going back and forth through pages, all information is       on one scrolling page. 
   
     ii. *As a new visitor to the site, I want to see what the business offers immediately*
   
-     a.
+     a. The home page has contact details in a callout wrapper on the top right. 
+     b. Navigation link to contact us form.
     
     iii. *As a new visitor to the site, I want to see a clean, professional and trustworthy service being offered*
    
-     a.
+     a. Site is differently built to many other dog sites. Scrolling effect takes away any clunky page loading. 
+     b. Site not filled with dog paw icons etc, a lot more professional.
+     c. Reviews are marked in the navigation bar for the visitor to use immediately.
     
  * ##### Potential Client Goals
  
     i. *As a potential client, I want to know the services offered in a concise and precise presentation*
     
+     a. Navigation shows "Services" page immediately after the home page, and same with scrolling effect. 
+     b. Service cards have to the point information and pricing is actioned underneath. No confusion for the visitor.
+    
     ii. *As a potential client, I want to see previous client's opinions of the service provider*
+    
+     a. Navigation bar shows "Reviews" section
+     b. "Reviews" section has a short quote, clients name and which service they use. There is a quote for each service. 
  
  * ##### Interested Client Goals
  
     i. *As an interested client, I want to know the pricing and what I get for this price* 
     
+     a. Pricing is shown in the "Services and Prices" section after the home page. 
+     b. Pricing is shown after concise description of service offered.
+     c. There is more than one pricing option for each service offered. 
+    
     ii. *As an interested client, I want to be able to contact the service provider in the way I feel is best for me*
     
+     a. Contact options are Phone and Email on the home page and Contact Us form in the "Contact" section. 
+    
     iii. *As an interested client, I want to be able access the service providers social media, so I can keep up with relevant news*
+    
+     a. Social media icons are located at the bottom of the page in the footer. 
+     b. All Social Media icons are clickable and take you straight the the business social media page. 
  
  * ##### Returning Customer Goals
  
-     i. *As a returning client I want to be able to access the contact details easily*
+    i. *As a returning client I want to be able to access the contact details easily*
+     
+     a. There won't be much call for returning customer, as once converted to customer, they will be in contact however they best choose. 
+     b. If they do return however, all options of Phone, Email and Contact Form are available. 
      
 
 #### Further Testing
