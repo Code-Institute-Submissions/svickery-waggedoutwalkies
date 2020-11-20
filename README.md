@@ -118,6 +118,26 @@ In the footer is copyright information and links to the social media sites.
 
 This site is hosted by GitHub pages and deployed directly from the master branch. The site updates automatically from updates that are new commits from the master branch. For the site to deploy on GitHub pages the landing page must be correctly named 'index.html'.
 
+I deployed the site by following the next steps:
+
+1. Logged into GitHub and located the correct repository
+2. Went into Settings at the top of my Wagged Out Walkies repository
+3. Located GitHub "Pages" in settings
+4. Selected "Master Branch" from the "Source" dropdown
+5. Page automatically refreshed, I scrolled back to "Pages" section to find the newly published site
+
+To make a clone of this site, please follow these steps:
+
+1. Log in to GitHub and find the repository required
+2. Click "Clone or download"
+3. Use the "Clone with HTTPS" option and copy the link
+4. Open Git Bash
+5. Edit the working directory to a location you want it to be cloned in
+6. Type `git clone` and paste the url you copied previously which should look as follows:
+
+`https://github.com/YOUR-USERNAME/YOUR-REPOSITORY` 
+
+7. Press enter and the repository should be cloned
 
 
 ## Credits
