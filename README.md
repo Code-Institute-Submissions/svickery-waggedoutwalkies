@@ -109,7 +109,8 @@ In the footer is copyright information and links to the social media sites.
 * [Google Fonts](https://fonts.google.com/) - Used for entire website fonts.
 * [Stack Overflow](https://stackoverflow.com/) - Used for the JavaScript necessary to get my stick navigation bar to work. 
 * [Web Formatter](https://webformatter.com/) - Used to make my code cleaner and easier to read.
-* [W3Schools](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/) - Used to help with contact form and other various coding questions.
+* [JSfiddle](http://jsfiddle.net/QN9cH/1/) - This was to help with parallax scrolling effect on iOS mobile devices. 
 
 ## Testing
 
@@ -183,8 +184,13 @@ There are no errors in the CSS Validator.
 
 #### Further Testing
 
+ * Testing was completed on desktop browsers Google Chrome, Safari and Microsoft Edge.
+ * Testing was completed on numerous devices iPhone X, iPhone 12, iPad, Google Pixel, Laptop and Desktop.
+ * All testing went well until iOS mobile devices. The parallax images were 'Zoomed in' and made the site look awful. Issue was rectified with CSS code. 
 
-    
+#### Known Bugs
+
+ * Only one known bug. The mobile number on the home screen is active on iOS mobile devices. 
 
 ## Deployment
 
