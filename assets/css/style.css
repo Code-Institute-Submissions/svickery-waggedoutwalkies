@@ -91,14 +91,11 @@ section {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: cover;
 }  
 
 .parallax1 {
     background-image: url(../img/imagetwo.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 100%;
 }
 
@@ -214,4 +211,11 @@ button[type="submit"] {
     .social-icons {
         text-align: right;
     }
+}
+
+@media(max-width: 767px){
+.x-bg-layer-lower-image {
+    background-attachment: fixed;
+    background-size: contain;
+}
 }
